@@ -41,7 +41,7 @@ export default function SignUpPage() {
       <span className="flex w-full items-center justify-center gap-2">
         Already registered?
         <Link
-          href="/forgot-password"
+          href="/sign-in"
           className="text-sm font-semibold text-foreground hover:underline"
         >
           Sign In
